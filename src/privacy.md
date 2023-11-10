@@ -3,25 +3,48 @@ title: Privacy Policy
 layout: page.njk
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut id rhoncus est. Nullam sit amet justo nisi. Aliquam elementum iaculis nulla bibendum congue. Integer convallis ut nisi at tincidunt. Sed eu diam ex. Ut efficitur velit ut ultrices semper. Morbi suscipit ut purus a placerat. Cras massa lorem, pretium et nibh in, faucibus fermentum dolor. Nulla lacinia malesuada molestie. Proin et risus turpis. Aenean lacinia, orci at egestas fringilla, sem libero facilisis lectus, ut porta justo ligula a quam. Mauris vulputate purus mauris, eget semper ante rutrum id. Duis vestibulum, turpis at ultricies aliquam, enim dolor lobortis leo, at laoreet elit odio at nunc. Aliquam sit amet erat mi.
+Privacy Policy
 
-Cras mattis justo id convallis porta. Pellentesque ullamcorper fringilla odio at pretium. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nulla mattis erat dui, ut tempor lectus dictum id. Mauris ornare massa a nisi gravida, id ultrices ex cursus. Donec quis porttitor nisl, non viverra dui. Donec nec gravida arcu. Pellentesque dignissim at libero id bibendum. Vivamus pulvinar nibh risus, et egestas odio interdum id. Cras eleifend risus molestie mollis finibus. Aenean tortor elit, accumsan vel fermentum pharetra, molestie ut felis.
+Effective date: 11-10-2023
 
-Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi. Pellentesque ac orci mi. Ut dignissim tincidunt ex id tincidunt. Aliquam semper felis sed leo sodales scelerisque. Vivamus vitae erat vel tellus condimentum consectetur at ac velit. Mauris massa tortor, cursus sit amet turpis in, lacinia ultricies nulla.
+Welcome to DaveDevs. We are committed to protecting your privacy. This Privacy Policy applies to your use of our website and mobile application (collectively, the “Service”) and describes the types of information we do not collect, our practices for handling non-personal information, and your rights.
 
-Integer finibus sem sit amet diam luctus, ut posuere enim dapibus. Nunc euismod dignissim dui a maximus. Phasellus pulvinar neque at lorem ultricies suscipit. Maecenas felis erat, ornare eget egestas et, ultricies vitae ante. In convallis quam lectus, sit amet elementum ligula pulvinar ac. Integer sapien ipsum, congue a purus vel, sollicitudin lacinia ligula. Ut varius sit amet lectus quis congue. Ut viverra lectus tellus, a pharetra neque egestas eu. Morbi feugiat, arcu id bibendum vulputate, risus mi finibus enim, sed pulvinar ipsum sem eu risus. Aenean accumsan elementum ipsum, eu porttitor libero auctor at. Duis nec ipsum velit. Aliquam ac ullamcorper nisl. Duis mattis malesuada leo, quis egestas turpis molestie nec. Curabitur dui tortor, volutpat quis varius et, posuere eget augue. Praesent sed pretium dui. Vivamus auctor ex vitae nisl commodo interdum.
+### 1. Information We Do Not Collect ### 
 
-Nam non quam vel velit sagittis consequat non vel odio. Phasellus condimentum dictum orci, quis rhoncus lacus hendrerit non. Ut vel nisl lectus. Duis vitae varius enim. Morbi placerat urna sit amet sollicitudin viverra. Vivamus maximus metus ac ornare venenatis. Ut suscipit nec sapien ac fringilla. Phasellus et justo eget odio lacinia feugiat. Nullam laoreet eros a lectus pretium, sed euismod velit tincidunt.
+We do not collect any personal information from you when you use our Service. This includes, but is not limited to, your name, address, email address, phone number, financial information, or any other type of personally identifiable information.
 
-#### Website enhancements ####
+### 2. Non-Personal Data ###
 
-This website uses the follwing packages from <a href="https://unpkg.com" rel="noopener" target="_blank" title="UNPKG">unpkg.com</a>:
+While we do not collect personal information, we may collect non-personal data about your use of our Service. This may include information about your device, your interaction with our Service, and other similar information. We use this data to enhance the performance and functionality of our Service and to analyze Service usage. The non-personal data we collect cannot be used to identify you personally.
 
-- &dash; popper.js
-- &dash; tippy.js
+### 3. Cookies and Similar Technologies ###
 
-Using these packages, personal data may be transmitted.
+We may use cookies and similar tracking technologies to track the activity on our Service. These are used to maintain the quality of our Service and to provide general statistics regarding the use of our Service. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, some parts of our Service may not function properly.
 
-### Your rights ###
+### 4. Use of Non-Personal Information ###
 
-Integer finibus sem sit amet diam luctus, ut posuere enim dapibus. Nunc euismod dignissim dui a maximus. Phasellus pulvinar neque at lorem ultricies suscipit. Maecenas felis erat, ornare eget egestas et, ultricies vitae ante. In convallis quam lectus, sit amet elementum ligula pulvinar ac. Integer sapien ipsum, congue a purus vel, sollicitudin lacinia ligula. Ut varius sit amet lectus quis congue. Ut viverra lectus tellus, a pharetra neque egestas eu. Morbi feugiat, arcu id bibendum vulputate, risus mi finibus enim, sed pulvinar ipsum sem eu risus. Aenean accumsan elementum ipsum, eu porttitor libero auctor at. Duis nec ipsum velit. Aliquam ac ullamcorper nisl. Duis mattis malesuada leo, quis egestas turpis molestie nec. Curabitur dui tortor, volutpat quis varius et, posuere eget augue. Praesent sed pretium dui. Vivamus auctor ex vitae nisl commodo interdum.
+We may use non-personal information collected to:
+
+- &dash; Operate, maintain, and improve our Service.
+- &dash; Understand and analyze how you use our Service.
+- &dash; Develop new products, services, features, and functionality.
+
+### 5. Sharing of Information ###
+
+Since we do not collect personal information, there is no personal information to share with third parties. However, we may share non-personal, aggregated, or anonymized information with our partners or for legal reasons.
+
+### 6. Security of Your Information ###
+
+We are committed to ensuring that your information is secure. While we collect no personal information, we protect the non-personal information that we collect by using reasonable technical and organizational safeguards.
+
+### 7. Your Privacy Rights ###
+
+As we do not collect personal information, there are no specific privacy rights related to personal data. However, you are entitled to general rights under privacy laws, which we are committed to upholding.
+
+### 8. Changes to This Privacy Policy ###
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes.
+
+### 9. Contact Us ###
+
+If you have any questions about this Privacy Policy, please contact us at privacy@davedevs.net.
