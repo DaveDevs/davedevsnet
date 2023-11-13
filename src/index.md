@@ -1,8 +1,8 @@
 ---
 layout: home
-title: 'Eleventy Duo'
+title: 'Home'
 ---
 
-# Hello World
+# DaveDevs
 
-Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs. Checkout the [project's github repo](https://github.com/yinkakun/eleventy-duo) for more info.
+Software Engineer, app development and other side projects. Checkout my [project's github repo](https://github.com/davedevs).   

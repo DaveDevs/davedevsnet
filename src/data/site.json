@@ -1,14 +1,19 @@
 {
-  "name": "Eleventy Duo",
-  "description": "Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs.",
-  "url": "https://eleventyduo.netlify.app",
+  "name": "DaveDevs",
+  "description": "DaveDevs - software engineering",
+  "url": "https://davedevs.net",
   "author": {
-    "name": "Author Name",
-    "email": "author@site.com",
+    "name": "Dave",
+    "email": "mail@davedevs.net",
     "twitterHandle": "author_handle"
   },
-  "defaultSocialImage": "/images/default-social-image.png",
+  "defaultSocialImage": "/images/logo.png",
   "headerLinks": [
+    {
+      "text": "Projects",
+      "url": "/projects",
+      "external": false
+    },
     {
       "text": "Blog",
       "url": "/blog",
@@ -28,7 +33,7 @@
     },
     {
       "text": "GitHub",
-      "url": "https://github.com/yinkakun/eleventy-duo",
+      "url": "https://github.com/davedevs",
       "external": true
     },
     {

@@ -1,14 +1,12 @@
 ---
-title: About Aidan Charles Powell
+title: About 
 layout: about.njk
-name: Aidan Charles Powell
+name: About
 image: '/images/me.jpeg'
 ---
 
-Aidan Charles Powell is a 23-year-old health centre receptionist who enjoys watching television, eating out and social media. He is generous and giving, but can also be very rude and a bit lazy.
+With over 15 years of dedicated experience in the tech industry, I've honed a deep expertise in steering projects to success.
 
-He is a Jedi who defines himself as straight. He has a degree in medicine. He is a vegetarian. He is obsessed with vintage dresses.
+At the core of DaveDevs is my passion for DevOps and my mastery of the Microsoft stack, primarily focusing on C# solutions to deliver robust, scalable applications. My technical acumen extends beyond to a versatile array of web and app development services, ensuring a comprehensive digital solution tailored to your unique needs.
 
-He grew up in a middle class neighbourhood. After his mother died when he was young, he was raised by his father
-
-He is currently married to Maureen Erika Quinn. Maureen is 13 years older than him and works as a sales assistant.
+DaveDevs isn't just about writing code; it's about crafting experiences. I believe in the transformative power of software and its ability to drive businesses forward. That's why I'm committed to continuous learning, adapting to the latest technologies, and delivering excellence in every line of code.
