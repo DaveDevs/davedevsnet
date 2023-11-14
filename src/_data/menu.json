@@ -4,12 +4,22 @@
         "url": "/about"
     },
     {
+        "label": "GitHub",
+        "url": "https://github.com/davedevs",
+        "newTab": true
+    },
+    {
         "label": "Tag List",
         "url": "/tags"
     },
     {
-        "label": "GitHub",
-        "url": "https://github.com/daflh/vredeburg",
+        "label": "Contact Us",
+        "url": "mailto:contact@davedevs.net",
+        "newTab": true
+    },
+    {
+        "label": "Support",
+        "url": "mailto:support@davedevs.net",
         "newTab": true
     }
 ]

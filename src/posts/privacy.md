@@ -1,8 +1,12 @@
 ---
-title: Privacy
----
-
-Privacy Policy
+title: "Privacy Policy"
+date: 2010-01-01T18:30
+thumb: "rs-privacy.png"
+tags: 
+    - privacy-policy 
+    - privacy
+    - apps
+--- 
 
 Effective date: 11-10-2023
 
