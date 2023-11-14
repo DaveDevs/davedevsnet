@@ -1,57 +1,44 @@
-# 11ty-landing-page
+# Vredeburg
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a1d36fc9-4471-4679-902c-337449ccb59d/deploy-status)](https://app.netlify.com/sites/vredeburg/deploys)
 
-A simple landing page built with 11ty and Tailwind CSS.
+A simple starter project to create a blog using Eleventy and Tailwind CSS.
 
-**Other versions**
+<details>
+  <summary>Screenshot</summary>
+  
+  ![](https://i.imgur.com/QTec5Xd.jpg)
+</details>
 
-- [Astro](https://github.com/ttntm/astro-landing-page)
-- [Hugo](https://github.com/ttntm/hugo-landing-page)
+See demo [here](https://vredeburg.netlify.app)!
 
-## How to use this template
+## Getting Started
+1. Clone this repository
+```bash
+git clone https://github.com/daflh/vredeburg.git my-blog
+```
+2. Navigate to the directory
+```bash
+cd my-blog
+```
+3. Install dependencies
+```bash
+npm install
+```
 
-**Requirements:**
+### Use in development
+```bash
+npm start
+```
 
-1. Eleventy (developed and tested with version 0.12.1)
-2. Tailwind CSS
+### Build for production
+```bash
+npm run build
+```
 
-All other dependencies are either linked from a CDN or included in this repository.
+### For debugging purposes
+```bash
+npm run debug
+```
 
-**Setup:**
-
-1. Fork, clone or download
-2. `cd` into the root folder
-3. run `npm install`
-4. run `npm run serve`
-5. open a browser and go to `http://localhost:8080`
-
-**Basic configuration:**
-
-1. Eleventy -> `./.eleventy.js`
-2. Tailwind -> `./tailwind.config.js`
-3. Netlify -> `./netlify.toml`
-
-CSS is built via PostCSS and based on `./src/_includes/css/_page.css`. Building CSS gets triggered by `./src/css/page.11ty.js` and Tailwind's config is set to JIT (see: [Tailwind docs](https://tailwindcss.com/docs/just-in-time-mode))
-
-Please note that this CSS build _does not_ include the `normalize.css` file used for the 2 regular pages (imprint, privacy) - a minified production version is stored in `./src/static/css` and gets included in the build by default.
-
-**Change Content:**
-
-Page content is stored in
-
-- `./src/`
-  - `imprint.md`
-  - `privacy.md`
-- `./src/sections/`
-- `./src/_data/features.json`
-
-**Change Templates/Layout:**
-
-Page structure and templates are stored in `./src/_layouts/` and can be edited there.
-
-Best have a look at `./layouts/base.njk` first to understand how it all comes together - the page itself is constructed from partial templates stored in `./src/includes/` and each section has a corresponding template file (`section.**.njk`) stored there.
-
-`index.njk` in `./src/` arranges everything, meaning that sections can be added/re-ordered/removed/... there.
-
-**Change images:**
-
-Images are stored in `./static/img/`; everything in there can be considered a placeholder that should eventually be replaced with your actual production images.
+## Configuration
+To change the title, description, author data, menu/nav item, etc, go to `src/_data/`.
